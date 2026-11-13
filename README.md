@@ -1,0 +1,15 @@
+### Hi, I'm Dan
+
+Self-taught developer in Auckland. I build small, calm software that does one job well, under my one-person studio, Soft Light Software.
+
+**What I'm working on**
+
+- **Shoji** ([getshoji.app](https://getshoji.app)): a calm day planner for working from home. Time blocks, a focus timer that closes distracting apps and blocks websites, a journal, and time tracking with invoices. On Windows now, iPhone on the way.
+- **Mimitori**: a Japanese study app. Read real Japanese, tap any word for its meaning, and review it with spaced repetition in the same app. In progress.
+- **[danbierre.dev](https://danbierre.dev)**: my portfolio, styled like 16mm film.
+
+**What I use**
+
+JavaScript, TypeScript, Astro, Vite, Tailwind CSS, Cloudflare Workers, Capacitor and Expo.
+
+Shoji's code is private because it's a paid app, but I'm happy to walk you through it. Say hi through [danbierre.dev](https://danbierre.dev).
