@@ -10,6 +10,16 @@ Self-taught developer in Auckland. I build small, calm software that does one jo
 
 **What I use**
 
-JavaScript, TypeScript, Astro, Vite, Tailwind CSS, Cloudflare Workers, Capacitor and Expo.
+JavaScript, TypeScript, React, React Native, Electron, Expo, Astro, Vite, Tailwind CSS, Cloudflare Workers and Capacitor.
+
+**Learning next**
+
+- Python
+- TypeScript, properly
+- React and React Native, deeper
+- How Electron desktop apps work under the hood
+- SQL and databases (Cloudflare D1)
+- Encryption basics, for private sync
+- Testing and automatic deploys with GitHub Actions
 
 Shoji's code is private because it's a paid app, but I'm happy to walk you through it. Say hi through [danbierre.dev](https://danbierre.dev).
